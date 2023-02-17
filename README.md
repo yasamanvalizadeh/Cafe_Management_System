@@ -16,10 +16,10 @@ Order detail include: item name, item category, item unit price, item quantity, 
 
 # image_project
 
-https://user-images.githubusercontent.com/112771618/219637315-9b5246cb-0221-4f27-bf73-2f21b33aa920.mp4
-
-https://user-images.githubusercontent.com/112771618/219637386-e32e3162-1719-4960-9880-30e1a9b3c2a2.mp4
-
-https://user-images.githubusercontent.com/112771618/219637405-c642fe2c-a591-4710-8790-d9ed48a2c25d.mp4
-
-https://user-images.githubusercontent.com/112771618/219637443-a6552354-ecc2-417e-973a-330fd58081ff.mp4
+![CreateAccount](https://user-images.githubusercontent.com/112771618/219646524-1b048180-61ad-41fd-adb4-457d82f60dfd.png)
+![makeOrder](https://user-images.githubusercontent.com/112771618/219646558-634ec37e-0b13-40dd-ab29-99348908a4a7.png)
+![manageOrder](https://user-images.githubusercontent.com/112771618/219646578-80c05f6a-c337-4a1d-a4b5-e0b9a69f4824.png)
+![manageUser](https://user-images.githubusercontent.com/112771618/219646601-27ce5044-bbe2-4ff0-96a7-aca6f5aae945.png)
+![manageItems](https://user-images.githubusercontent.com/112771618/219646629-1b09ba90-b3b7-4b14-9dfb-d6047f2bb602.png)
+![addNewUser](https://user-images.githubusercontent.com/112771618/219646656-87c40587-5973-4eba-8695-86e4b0bba197.png)
+![AddNewItem](https://user-images.githubusercontent.com/112771618/219646666-ae40b3e2-524f-46ed-8a3c-b1414c84b793.png)
