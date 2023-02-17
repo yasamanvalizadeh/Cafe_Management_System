@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CafeSystemManagement.Entity/1.0.0": {
+        "dependencies": {
+          "CafeManagmentSystem.Common": "1.0.0"
+        },
+        "runtime": {
+          "CafeSystemManagement.Entity.dll": {}
+        }
+      },
+      "CafeManagmentSystem.Common/1.0.0": {
+        "runtime": {
+          "CafeManagmentSystem.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CafeSystemManagement.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CafeManagmentSystem.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
