@@ -14,3 +14,12 @@ Client side features:
 3. Management of orders through the account(Basic information include: order number, order date, order time, orderer user name, orderer contact.
 Order detail include: item name, item category, item unit price, item quantity, item final amount)
 
+# image_project
+
+https://user-images.githubusercontent.com/112771618/219637315-9b5246cb-0221-4f27-bf73-2f21b33aa920.mp4
+
+https://user-images.githubusercontent.com/112771618/219637386-e32e3162-1719-4960-9880-30e1a9b3c2a2.mp4
+
+https://user-images.githubusercontent.com/112771618/219637405-c642fe2c-a591-4710-8790-d9ed48a2c25d.mp4
+
+https://user-images.githubusercontent.com/112771618/219637443-a6552354-ecc2-417e-973a-330fd58081ff.mp4
