@@ -16,16 +16,23 @@ Order detail include: item name, item category, item unit price, item quantity, 
 
 # image_project
 
-![CreateAccount](https://user-images.githubusercontent.com/112771618/219647168-9b55eeae-c7f5-4af1-aa52-9b946104b627.png)
+Create Account
+![CreateAccount](https://user-images.githubusercontent.com/112771618/219648019-1b7ece07-71fc-4b7e-9c52-7f02ba7e1acf.png)
 
-![makeOrder](https://user-images.githubusercontent.com/112771618/219646558-634ec37e-0b13-40dd-ab29-99348908a4a7.png)
+Make Order
+![makeOrder](https://user-images.githubusercontent.com/112771618/219648050-d9e79636-4742-44cc-9867-7d617e729164.png)
 
-![manageOrder](https://user-images.githubusercontent.com/112771618/219646578-80c05f6a-c337-4a1d-a4b5-e0b9a69f4824.png)
+Manage Orders
+![manageOrder](https://user-images.githubusercontent.com/112771618/219648092-4150c97a-2656-4acb-be56-77945e64e29c.png)
 
-![manageUser](https://user-images.githubusercontent.com/112771618/219646601-27ce5044-bbe2-4ff0-96a7-aca6f5aae945.png)
+Manage Users In Admin Dashboard
+![manageUser](https://user-images.githubusercontent.com/112771618/219648119-c3937911-c8c8-4ade-a835-17f4df5a69eb.png)
 
-![manageItems](https://user-images.githubusercontent.com/112771618/219646629-1b09ba90-b3b7-4b14-9dfb-d6047f2bb602.png)
+Add New User In Admin Dashboard
+![addNewUser](https://user-images.githubusercontent.com/112771618/219648138-575d910d-9262-46dd-8f67-5e333ae14c85.png)
 
-![addNewUser](https://user-images.githubusercontent.com/112771618/219646656-87c40587-5973-4eba-8695-86e4b0bba197.png)
+Manage Products In Admin Dashboard
+![manageItems](https://user-images.githubusercontent.com/112771618/219648166-cf4da53e-7152-4e40-8d81-92b4f996f009.png)
 
-![AddNewItem](https://user-images.githubusercontent.com/112771618/219646666-ae40b3e2-524f-46ed-8a3c-b1414c84b793.png)
+Add New Product In Admin Dashboard
+![AddNewItem](https://user-images.githubusercontent.com/112771618/219648180-77047355-3014-4ced-9f27-2a790e8a609c.png)
