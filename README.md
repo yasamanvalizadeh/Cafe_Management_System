@@ -1,6 +1,9 @@
 # A cafe management system with .Net
 Note: This project is under development.
 
+Common features:
+1.safe against overposting attacks
+
 Admin panel features:
 1. Users account management through the database
 2. Edit, delete Information of each user(Include: user name, password , phone number)
