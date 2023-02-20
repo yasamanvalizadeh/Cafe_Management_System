@@ -2,7 +2,7 @@
 Note: This project is under development.
 
 Common features:
-1.safe against overposting attacks 
+1.Safe against mass assignment attacks 
 
 Admin panel features:
 1. Users account management through the database
