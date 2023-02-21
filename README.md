@@ -2,7 +2,8 @@
 Note: This project is under development.
 
 Common features:
-1.Safe against mass assignment attacks 
+1.Safe against attacks include: mass assignment.
+2.Manage Errors Includes: Transient network errors for DB in cloude.
 
 Admin panel features:
 1. Users account management through the database
