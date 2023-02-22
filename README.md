@@ -13,6 +13,7 @@ Admin panel features:
 5. Edit, delete any product information(Include: item name, item category, unit price)
 6. Sorting based on the heading of the date and name columns and switch between ascending and descending sort order by repeatedly clicks on column heading
 7. Search and filter items or users by name
+8. Paging uses and items with next and previous
 
 Client side features:
 1. Create user account
