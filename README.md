@@ -14,6 +14,7 @@ Admin panel features:
 6. Sorting based on the heading of the date and name columns and switch between ascending and descending sort order by repeatedly clicks on column heading
 7. Search and filter items or users by name
 8. Paging uses and items with next and previous
+7. grouping number of users based on sign up time
 
 Client side features:
 1. Create user account
