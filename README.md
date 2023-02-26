@@ -13,7 +13,7 @@ Admin panel features:
 5. Edit, delete any product information(Include: item name, item category, unit price)
 6. Sorting based on the heading of the date and name columns and switch between ascending and descending sort order by repeatedly clicks on column heading
 7. Search and filter items or users by name
-8. Paging uses and items with next and previous
+8. Paging users and items with next and previous button
 9. Grouping number of users based on sign up time
 10. Manage all orders of each user individually with details(Include: Order date, Order status, Order name, Order category, Order unit price, Order qty, Total)
 11. Manage all orders of each item individually with details(Include: Item name, Item Category, Unite price, Orderer id, Order qty, Order date, Order status)
