@@ -15,7 +15,7 @@ Admin panel features:
 7. Search and filter items or users by name
 8. Paging users and items with next and previous button
 9. Grouping number of users based on sign up time
-10. Manage all orders of <<each user>> individually with details(Include: Order date, Order status, Order name, Order category, Order unit price, Order qty, Total)
+10. Manage all orders of <each user> individually with details(Include: Order date, Order status, Order name, Order category, Order unit price, Order qty, Total)
 11. Manage all orders of <<each item>> individually with details(Include: Item name, Item Category, Unite price, Orderer id, Order qty, Order date, Order status)
 
 Client side features:
