@@ -12,7 +12,7 @@ Admin panel features:
 4. Cafe products management through the database
 5. Edit, delete any product information(Include: item name, item category, unit price)
 6. Sorting based on the heading of the date and name columns and switch between ascending and descending sort order by repeatedly clicks on column heading
-7. Search and filter items or users by name
+7. Search and filter items and users by name
 8. Paging users and items with next and previous button
 9. Grouping number of users based on sign up time
 10. Managing all orders of each user individually with details(Include: User full name, Order date, Order status, Order name, Order category, Order unit price, Order qty, Total)
