@@ -17,6 +17,7 @@ Admin panel features:
 9. Grouping number of users based on sign up time
 10. Managing all orders of each user individually with details(Include: User full name, Order date, Order status, Order name, Order category, Order unit price, Order qty, Total)
 11. Managing all orders of each item individually with details(Include: Item name, Item Category, Unite price, Orderer id, Order qty, Order date, Order status)
+12. Includes a factor to change the price for all items at once
 
 Client side features:
 1. Create user account
