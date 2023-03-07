@@ -1,4 +1,4 @@
-# A cafe management system with .Net
+# Cafe management system with .Net
 Note: This project is under development.
 
 Common features:
