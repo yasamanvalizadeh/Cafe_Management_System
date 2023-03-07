@@ -4,6 +4,7 @@ Note: This project is under development.
 Common features:
 1. Safe against attacks include: mass assignment attack , cross-site request forgery (CSRF)
 2. Managing concurrency exceptions for item and user entities
+3. Multi-tenancy architectural pattern for managing state in pooled context
 
 Admin panel features:
 1. Users account management through the database
